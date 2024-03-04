@@ -1,0 +1,14 @@
+nikitakocherin (main *) hw_1
+$ python third.py 
+ff
+hgh
+dds
+^D      2	3	11
+nikitakocherin (main *) hw_1
+$ python third.py first.py
+	20	57	426	first.py
+nikitakocherin (main *) hw_1
+$ python third.py first.py first.py 
+	20	57	426	first.py
+	20	57	426	first.py
+	40	114	852	total

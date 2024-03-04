@@ -11,7 +11,7 @@ def cli():
                 print(line.rstrip('\n'))
     elif len(args) == 2:
         with open(args[1], 'r') as f:
-                lines = f.readlines()
+            lines = f.readlines()
         for line in lines[-10:]:
             print(line.rstrip('\n'))
     else:
