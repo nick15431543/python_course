@@ -1,1 +1,0 @@
-https://pypi.org/project/my-tex-lib/0.0.1/
