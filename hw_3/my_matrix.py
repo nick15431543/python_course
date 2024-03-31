@@ -2,6 +2,9 @@ import copy
 
 class MatrixHash():
     def __hash__(self):
+        """
+        return sum of int(matrix[i][j])
+        """
         res = 0
         for i in self.matrix:
             for j in i:
