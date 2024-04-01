@@ -1,0 +1,3 @@
+Time synchronous: 127.0422s
+Time threading: 126.1572s
+Time processes: 27.3834s
