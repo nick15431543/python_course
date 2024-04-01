@@ -1,0 +1,24 @@
+DD
+input at 3.9771s
+output at 3.9807s
+output qq
+HH
+input at 6.4118s
+JJ
+input at 7.8179s
+jjoutput at 8.9821s
+output uu
+
+input at 9.4665s
+JJKJ
+input at 11.9562s
+jjj
+input at 13.4865s
+output at 13.9844s
+output ww
+output at 18.9891s
+output ww
+output at 23.9910s
+output wwxw
+output at 28.9963s
+output www
